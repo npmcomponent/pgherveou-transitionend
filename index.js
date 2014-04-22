@@ -2,7 +2,7 @@
  * module dependencies
  */
 
-var prefix = require('prefix');
+var prefix = require('pgherveou-prefix');
 
 // transitionend mapping
 // src: https://github.com/twitter/bootstrap/issues/2870
